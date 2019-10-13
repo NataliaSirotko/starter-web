@@ -16,6 +16,8 @@ This is a simple web project
 
 ## How to contribute
 
+Please fork this repository and then issue PR for review.
+
 ### Copyright
 
 2019 Git.Training
