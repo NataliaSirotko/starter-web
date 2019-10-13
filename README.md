@@ -16,7 +16,7 @@ This is a simple web project
 
 ## How to contribute
 
-Please fork this repo and then issue PR for review.
+Please fork this repository and then issue PR for review.
 
 ### Copyright
 
