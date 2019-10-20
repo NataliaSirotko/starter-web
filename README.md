@@ -1,7 +1,7 @@
 # Starter Web Project
 
-This is a simple website project for showing how Git and GitHub work. Adding a line for rebasing example,
-then more changes from myfeature branch
+This is a simple website project for showing how Git and GitHub work. 
+Updating for emergency fix after stashing.
 
 ## Introduction
 
